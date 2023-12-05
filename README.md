@@ -2,7 +2,7 @@
 
 ### Glad to see you here! 
 
-I hold a degree in Business Analytics and Project Management from [The University of Connecticut](https://uconn.edu/) and am passionate about technology and open-source initiatives. 
+I hold a degree in Business Analytics and Project Management from [University of Connecticut](https://uconn.edu/) and am passionate about technology and open-source initiatives. 
 
 I am currently interning as a Business Systems Analyst at Intermedia Cloud Communications in the Finance team, I leverage my skills in data science and project management to improve processes in Financial Systems and Business. My role involves collaborating with cross-functional teams, analyzing requirements, designing data models, and crafting dashboards through SQL queries. Furthermore, I utilize machine learning and Python for tasks such as data mining and predictive modeling to offer valuable insights for business optimization. Always open to collaborative projects and innovative ideas.
 
