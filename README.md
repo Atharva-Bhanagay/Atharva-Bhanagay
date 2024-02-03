@@ -10,7 +10,7 @@ Within my position, I actively engage in collaborative efforts with cross-functi
 
 In every analytical endeavor, I aim not only to decipher patterns and insights but also to communicate these findings effectively. Crafting narratives from raw data allows me to bridge the gap between complex analytical outcomes and meaningful business decisions. This commitment to detail-oriented storytelling reflects my dedication to providing clear, actionable insights that drive positive outcomes. Let's continue the journey of uncovering meaningful data narratives together!
 
-<img align="right" alt="Coding" width="350" src=https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif>
+<img align="right" alt="Coding" width="320" src=https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif>
 
 ### Talking about Personal Stuff:
 
