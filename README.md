@@ -17,7 +17,7 @@ In every analytical endeavor, I aim not only to decipher patterns and insights b
 - 🛠 &nbsp; Works with Python | SQL | Tableau | Data Science
 - 🚀 &nbsp; Hands on Experience - Business Intelligence, Time Series & Optimization
 - 🏅 &nbsp; Power BI Case Experience (PwC), Machine Learning Fundamentals (Alteryx), Jira Fundamentals (Atlassian) 
-- 🎯 &nbsp; Recent Projects: [Stock Portfolio Optimization](https://github.com/Atharva-Bhanagay/Portfolio-Optimization-Model) | [CVS Health Risk Evaluation](https://github.com/Atharva-Bhanagay/ISODS-NLP-Risk-Evaluation) | [Walmart Sales Forecasting](https://github.com/Atharva-Bhanagay/Walmart-Sales-Forecasting-Project)
+- 🎯 &nbsp; Recent Projects: [Stock Portfolio Optimization](https://github.com/Atharva-Bhanagay/Portfolio-Optimization-Model) | [CVS Health Risk Evaluation](https://github.com/Atharva-Bhanagay/ISODS-NLP-Risk-Evaluation) 
 - 👾 &nbsp; Talk to me about: Travelling | Basketball | Photography | Memes
 
 I am on a hunt for a new role in the data analytics domain, seeking a position that allows me to apply my skills and contribute to well-informed business decision-making. Let's connect and explore how my passion for deciphering data narratives can contribute to your team's success! Reach out to me at atharvab.uconn@gmail.com or Connect with me on [LinkedIn](https://www.linkedin.com/in/atharvabhanagay/).
